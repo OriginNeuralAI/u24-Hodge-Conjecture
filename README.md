@@ -32,9 +32,9 @@
 
 ## Paper
 
-| Paper | Description | LaTeX |
-|-------|-------------|-------|
-| **The Hodge Conjecture via U₂₄ Universality and K3 Surfaces** | 393 lines, 7 theorems, 10 references, 4 verification tables | [LaTeX](papers/Hodge_via_U24_K3_Surfaces.tex) |
+| Paper | Description | PDF | LaTeX |
+|-------|-------------|-----|-------|
+| **The Hodge Conjecture via U₂₄ Universality and K3 Surfaces** | 554 lines, 8 theorems, 10 references, 8 figures | [PDF](papers/Hodge_via_U24_K3_Surfaces.pdf) | [LaTeX](papers/Hodge_via_U24_K3_Surfaces.tex) |
 
 ## Visual Summary
 
