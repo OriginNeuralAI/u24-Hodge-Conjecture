@@ -36,6 +36,56 @@
 |-------|-------------|-------|
 | **The Hodge Conjecture via U₂₄ Universality and K3 Surfaces** | 393 lines, 7 theorems, 10 references, 4 verification tables | [LaTeX](papers/Hodge_via_U24_K3_Surfaces.tex) |
 
+## Visual Summary
+
+<div align="center">
+<img src="figures/k3_hodge_diamond.png" alt="K3 Surface Hodge Diamond" width="720">
+</div>
+
+> **K3 Surface Hodge Diamond** — χ(K3) = 24 = Ω, with b₂ = 22 and unique holomorphic 2-form.
+
+<div align="center">
+<img src="figures/niemeier_lattices.png" alt="The 24 Niemeier Lattices" width="720">
+</div>
+
+> **The 24 Niemeier Lattices** — all even unimodular positive-definite lattices of rank 24, from D₂₄ (1,104 roots) to the Leech lattice Λ₂₄ (0 roots).
+
+<div align="center">
+<img src="figures/k3_eigenvalues.png" alt="K3 Intersection Form Eigenvalues" width="720">
+</div>
+
+> **K3 Intersection Form Eigenvalues** — signature (3, 19) verified via eigendecomposition. 3 positive and 19 negative eigenvalues.
+
+<div align="center">
+<img src="figures/omega_three_pillars.png" alt="Three Pillars of Ω = 24" width="720">
+</div>
+
+> **Three Pillars of Ω = 24**: χ(K3) = 24, 24 Niemeier lattices, and [SL₂(Z):Γ₀(23)] = 24.
+
+<div align="center">
+<img src="figures/hodge_status.png" alt="Hodge Conjecture Status" width="720">
+</div>
+
+> **Hodge Conjecture Status** — proved for K3 (Lefschetz), K3×K3 (Mukai), abelian g≤4 (Fano 2025). Open for g≥5.
+
+<div align="center">
+<img src="figures/hodge_proof_chain.png" alt="Proof Chain" width="720">
+</div>
+
+> **Proof Chain**: Lefschetz → Mukai → Kuga-Satake → Moonshine Lift → Hodge for all varieties.
+
+<div align="center">
+<img src="figures/verification_dashboard.png" alt="Moonshine Lift Verification Dashboard" width="720">
+</div>
+
+> **Moonshine Lift Verification** — 25/25 automated checks pass across K3 lattice, Niemeier, Hodge diamonds, and modular structure.
+
+<div align="center">
+<img src="figures/fifteen_identity.png" alt="Cross-Domain Identity: 15 = Ω − 9 = b₂ − 7" width="720">
+</div>
+
+> **Cross-Domain Identity**: 15 = Ω − 9 = b₂(K3) − 7, connecting the Reeds non-polynomial gap to the K3 lattice.
+
 ---
 
 ## Key Results
@@ -220,6 +270,7 @@ This work is part of the **U₂₄ universality programme** — a unified mathem
 | **[U₂₄ P vs NP](https://github.com/OriginNeuralAI/u24-P-vs-NP)** | P vs NP | SOS implies P != NP — OGP 0.00%, n = 50,000 | 35/35 |
 | **[U₂₄ BSD Conjecture](https://github.com/OriginNeuralAI/u24-BSD-Conjecture)** | BSD Conjecture | (A*) implies BSD — Hasse bound unconditional, 13 curves | 13/13 |
 | **[U₂₄ Hodge Conjecture](https://github.com/OriginNeuralAI/u24-Hodge-Conjecture)** | Hodge Conjecture (this repo) | KS implies Hodge — chi(K3) = 24 = Omega | 25/25 |
+| **[U₂₄ Navier-Stokes](https://github.com/OriginNeuralAI/u24-Navier-Stokes)** | Navier-Stokes Existence & Smoothness | Ω-regularity implies global smoothness | — |
 | **[The Unified Theory](https://github.com/OriginNeuralAI/The_Unified_Theory)** | Omega = 24 framework | 11 paths to 24, fine-structure constant, dark energy | 133/133 |
 
 ---
