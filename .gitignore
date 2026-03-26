@@ -1,0 +1,10 @@
+target/
+*.exe
+*.pdb
+Cargo.lock
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.pdf
+!papers/*.pdf

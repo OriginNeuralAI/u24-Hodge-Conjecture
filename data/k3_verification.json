@@ -1,0 +1,15 @@
+{
+  "rank_correct": true,
+  "signature_correct": true,
+  "unimodular": false,
+  "even": true,
+  "euler_24": true,
+  "extended_rank_24": true,
+  "extended_unimodular": false,
+  "extended_signature": [
+    4,
+    20
+  ],
+  "b2": 22,
+  "all_pass": false
+}

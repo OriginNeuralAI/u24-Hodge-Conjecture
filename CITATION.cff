@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "The Hodge Conjecture via U24 Universality and K3 Surfaces"
+message: "If you reference this work, please cite as below."
+type: article
+authors:
+  - family-names: Daugherty
+    given-names: Bryan
+  - family-names: Ward
+    given-names: Gregory
+  - family-names: Ryan
+    given-names: Shawn
+repository-code: "https://github.com/OriginNeuralAI/u24-Hodge-Conjecture"
+license: LicenseRef-AllRightsReserved
+date-released: "2026-03-26"
+version: "3.0"
+keywords:
+  - hodge-conjecture
+  - k3-surface
+  - niemeier-lattice
+  - moonshine
+  - kuga-satake
+  - omega-24

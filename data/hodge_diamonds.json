@@ -1,0 +1,30 @@
+{
+  "dimension": 2,
+  "hodge_numbers": [
+    [
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      20,
+      0
+    ],
+    [
+      1,
+      0,
+      1
+    ]
+  ],
+  "euler_characteristic": 24,
+  "betti_numbers": [
+    1,
+    0,
+    22,
+    0,
+    1
+  ],
+  "hodge_symmetry": true,
+  "serre_duality": true
+}

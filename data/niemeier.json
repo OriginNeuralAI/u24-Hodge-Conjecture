@@ -1,0 +1,170 @@
+[
+  {
+    "index": 1,
+    "root_system": "D₂₄",
+    "n_roots": 1104,
+    "coxeter_number": 46,
+    "rank_of_root": 24
+  },
+  {
+    "index": 2,
+    "root_system": "D₁₆ ⊕ E₈",
+    "n_roots": 720,
+    "coxeter_number": 30,
+    "rank_of_root": 24
+  },
+  {
+    "index": 3,
+    "root_system": "3E₈",
+    "n_roots": 720,
+    "coxeter_number": 30,
+    "rank_of_root": 24
+  },
+  {
+    "index": 4,
+    "root_system": "A₂₄",
+    "n_roots": 600,
+    "coxeter_number": 25,
+    "rank_of_root": 24
+  },
+  {
+    "index": 5,
+    "root_system": "2D₁₂",
+    "n_roots": 528,
+    "coxeter_number": 22,
+    "rank_of_root": 24
+  },
+  {
+    "index": 6,
+    "root_system": "A₁₇ ⊕ E₇",
+    "n_roots": 432,
+    "coxeter_number": 18,
+    "rank_of_root": 24
+  },
+  {
+    "index": 7,
+    "root_system": "D₁₀ ⊕ 2E₇",
+    "n_roots": 396,
+    "coxeter_number": 18,
+    "rank_of_root": 24
+  },
+  {
+    "index": 8,
+    "root_system": "A₁₅ ⊕ D₉",
+    "n_roots": 384,
+    "coxeter_number": 16,
+    "rank_of_root": 24
+  },
+  {
+    "index": 9,
+    "root_system": "3D₈",
+    "n_roots": 336,
+    "coxeter_number": 14,
+    "rank_of_root": 24
+  },
+  {
+    "index": 10,
+    "root_system": "2A₁₂",
+    "n_roots": 312,
+    "coxeter_number": 13,
+    "rank_of_root": 24
+  },
+  {
+    "index": 11,
+    "root_system": "A₁₁ ⊕ D₇ ⊕ E₆",
+    "n_roots": 312,
+    "coxeter_number": 12,
+    "rank_of_root": 24
+  },
+  {
+    "index": 12,
+    "root_system": "4E₆",
+    "n_roots": 288,
+    "coxeter_number": 12,
+    "rank_of_root": 24
+  },
+  {
+    "index": 13,
+    "root_system": "2A₉ ⊕ D₆",
+    "n_roots": 240,
+    "coxeter_number": 10,
+    "rank_of_root": 24
+  },
+  {
+    "index": 14,
+    "root_system": "4D₆",
+    "n_roots": 240,
+    "coxeter_number": 10,
+    "rank_of_root": 24
+  },
+  {
+    "index": 15,
+    "root_system": "3A₈",
+    "n_roots": 216,
+    "coxeter_number": 9,
+    "rank_of_root": 24
+  },
+  {
+    "index": 16,
+    "root_system": "2A₇ ⊕ 2D₅",
+    "n_roots": 208,
+    "coxeter_number": 8,
+    "rank_of_root": 24
+  },
+  {
+    "index": 17,
+    "root_system": "4A₆",
+    "n_roots": 168,
+    "coxeter_number": 7,
+    "rank_of_root": 24
+  },
+  {
+    "index": 18,
+    "root_system": "4A₅ ⊕ D₄",
+    "n_roots": 144,
+    "coxeter_number": 6,
+    "rank_of_root": 24
+  },
+  {
+    "index": 19,
+    "root_system": "6D₄",
+    "n_roots": 144,
+    "coxeter_number": 6,
+    "rank_of_root": 24
+  },
+  {
+    "index": 20,
+    "root_system": "6A₄",
+    "n_roots": 120,
+    "coxeter_number": 5,
+    "rank_of_root": 24
+  },
+  {
+    "index": 21,
+    "root_system": "8A₃",
+    "n_roots": 96,
+    "coxeter_number": 4,
+    "rank_of_root": 24
+  },
+  {
+    "index": 22,
+    "root_system": "12A₂",
+    "n_roots": 72,
+    "coxeter_number": 3,
+    "rank_of_root": 24
+  },
+  {
+    "index": 23,
+    "root_system": "24A₁",
+    "n_roots": 48,
+    "coxeter_number": 2,
+    "rank_of_root": 24
+  },
+  {
+    "index": 24,
+    "root_system": "∅ (Leech)",
+    "n_roots": 0,
+    "coxeter_number": 0,
+    "rank_of_root": 0
+  }
+]

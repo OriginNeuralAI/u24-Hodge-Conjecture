@@ -1,0 +1,27 @@
+Copyright (c) 2026 Bryan Daugherty, Gregory Ward, Shawn Ryan / Origin Neural AI. All rights reserved.
+
+This repository contains published research results and verification data for
+the Hodge Conjecture via U24 universality and K3 surfaces.
+Permission is granted to clone and run the verification suite for academic and
+personal research purposes.
+
+THE FOLLOWING ARE EXPRESSLY PROHIBITED WITHOUT PRIOR WRITTEN CONSENT:
+  - Commercial use of any code, data, or findings
+  - Redistribution or republication of the source code
+  - Creation of derivative works for commercial purposes
+  - Use of the Isomorphic Engine specifications, parameters, or architecture
+    details contained herein to build competing systems
+
+THE FOLLOWING ARE PERMITTED:
+  - Reading, studying, and verifying all mathematical claims
+  - Running verification scripts on provided data
+  - Citing the work in academic publications
+  - Reproducing results using independent implementations
+
+THE ISOMORPHIC ENGINE (referenced but not included) is proprietary software
+owned by Origin Neural AI. Engine outputs (JSON data files) are provided for
+verification purposes only.
+
+THIS SOFTWARE AND DATA ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+Contact: bryan@smartledger.solutions
